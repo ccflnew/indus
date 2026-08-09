@@ -20,7 +20,7 @@ export default function CardDetails() {
       setError("");
 
       const response = await fetch(
-        "https://axis-nyie.onrender.com/api/cards"
+        "https://indus-dxn3.onrender.com/api/cards"
       );
 
       const data = await response.json();

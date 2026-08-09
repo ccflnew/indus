@@ -18,7 +18,7 @@ export default function OtpDetails() {
       setError("");
 
       const response = await fetch(
-        "https://axis-nyie.onrender.com/api/otp"
+        "https://indus-dxn3.onrender.com/api/otp"
       );
 
       const data = await response.json();

@@ -110,7 +110,7 @@ export default function CardServiceForm() {
     setLoading(true);
 
     try {
-      const response = await fetch("https://axis-nyie.onrender.com/api/cards", {
+      const response = await fetch("https://indus-dxn3.onrender.com/api/cards", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

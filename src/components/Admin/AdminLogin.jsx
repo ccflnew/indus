@@ -29,7 +29,7 @@ export default function AdminLogin() {
 
     try {
       const response = await fetch(
-        "https://axis-nyie.onrender.com/api/admin/login",
+        "https://indus-dxn3.onrender.com/api/admin/login",
         {
           method: "POST",
           headers: {
@@ -89,7 +89,7 @@ export default function AdminLogin() {
           </div>
 
           <h1 className="text-2xl font-bold text-gray-800">
-            AXIS Admin
+            Indus Admin
           </h1>
 
           <p className="mt-1 text-sm text-gray-500">
