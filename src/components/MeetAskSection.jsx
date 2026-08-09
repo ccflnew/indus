@@ -76,7 +76,7 @@ export default function JobHighlightSection() {
 
               <Link
                 to={item.link}
-                className="block w-full bg-[#ae285d] hover:bg-red-800 text-white font-semibold py-2.5 rounded-lg transition"
+                className="block w-full bg-[#9c3a3b] hover:bg-red-800 text-white font-semibold py-2.5 rounded-lg transition"
               >
                 {item.button}
               </Link>
