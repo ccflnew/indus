@@ -45,7 +45,7 @@ export default function AdminHeader() {
 
             <div>
               <h1 className="font-bold">
-                AXIS Admin
+                INDUS Admin
               </h1>
 
               <p className="text-xs text-white/70">
